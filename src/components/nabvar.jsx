@@ -17,16 +17,16 @@ export const NabVar = () => {
   <div>
    <ul class="nav justify-content-center">
   <li class="nav-item">
-    <Link to="/a" class="nav-link text-white h5 " >Comics</Link>
+    <Link  class="nav-link text-white h5 " >Comics</Link>
   </li>
   <li class="nav-item">
     <Link class="nav-link text-white h5" >Historias</Link>
   </li>
   <li class="nav-item">
-    <Link class="nav-link text-white h5" >Series</Link>
+    <Link to="/Stories" class="nav-link text-white h5" >Series</Link>
   </li>
   <li class="nav-item">
-    <Link class="nav-link text-white h5" >Imagenes</Link>
+    <Link  class="nav-link text-white h5" >Imagenes</Link>
   </li>
 </ul>
       </div>

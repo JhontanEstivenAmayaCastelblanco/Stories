@@ -9,7 +9,7 @@ function App() {
     <div>
     <Routes>
   <Route path='/' element={<NabVar/>} >
-      <Route path='a' element={<Slider/>} />
+      <Route path='Stories' element={<Slider/>} />
   </Route>
     </Routes>
   </div>
